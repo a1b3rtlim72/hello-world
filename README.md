@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+Trying to move in the programming world :)
